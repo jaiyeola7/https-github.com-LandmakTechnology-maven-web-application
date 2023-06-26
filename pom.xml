@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.92.176.212:8181/mylandmarktech/repository/jaiyeapp-releases/</url>
+	      <url>http://34.239.101.157:8181/mylandmarktech/repository/jaiyeprojectapprelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.92.176.212:8181/mylandmarktech/repository/jaiyeapp-snapshots/</url>
+	      <url>http://34.239.101.157:8181/mylandmarktech/repository/jaiyeappprojectsnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
